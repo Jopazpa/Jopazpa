@@ -66,12 +66,11 @@ Y como toque personal, me encantan los idiomas: hablo español, inglés y alemá
 </pre>
 
 ## 🔎 Un poco más de mí
-- 🏐 Amo el voleibol (aunque a veces termino más riéndome que jugando en serio).  
+- 🏐 Amo el voleibol (aunque ya no lo juego).  
 - 🌻 Fan nivel adicción de las semillas de girasol 🌻, podría vivir solo de eso.  
-- 🌍 Ciudadana del mundo: he vivido en 4 países y sigo fascinada con descubrir nuevas culturas.  
+- 🌍 Ciudadana del mundo! Ya he vivido en 4 países y sigo fascinada con descubrir nuevas culturas.  
 - 📺 Crimegirl 100% 🕵️‍♀️. Pocas cosas me hacen más feliz que un buen true crime o un maratón de *Law & Order SVU* o Discovery ID.  
-- 🧉 Nunca me falta el mate en la mano, es mi mejor partner para programar y cranear proyectos.  
-- 🎤 Soy *yapper profesional*: canto todo el día (aunque nadie me lo pida), hablo hasta por los codos, soy intensa y un poco desordenada… pero también estratega, porque cuando tengo un objetivo no me rindo hasta alcanzarlo 💪.  
+- 🧉 Nunca me falta el mate o café en la mano, es mi mejor partner para programar y cranear proyectos.    
 
 <p align="center">
   <p align="center"><i>“La imaginación es la facultad de descubrir, la que penetra en lo invisible y en lo desconocido.”</i> — <b>Ada Lovelace</b> 🦋</p>--- <b>Jopazpa</b>
