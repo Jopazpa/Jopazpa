@@ -20,7 +20,6 @@ Hola, soy <b>Jopazpa</b>!
 
 <hr/>
 
-<pre>
 <h2 align="center"><b>✨ Sobre mí ✨</b></h2>
 
 <p align="justify" style="font-size:16px;">
@@ -33,8 +32,6 @@ Disfruto especialmente trabajar con <b>Python</b> (en VSCode y Git), aunque tamb
 Lo que más me motiva es <b>soñar en grande</b> y participar en proyectos que tengan un impacto real en las personas.  
 Y como toque personal, me encantan los idiomas: hablo español, inglés y alemán… ¡y también un poco de <i>Pythoniano</i> 😄.  
 </p>
-
-</pre>
 
 ## 🧰 Tech
 <p>
